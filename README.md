@@ -2,7 +2,8 @@
 self explanatory. only text based btw  
 Idk how this works so i guess just do:
 
--------------------
-cd <file location>
-python main.py
------------------
+  cd [file location]
+  
+  python main.py
+  
+In a terminal of course
